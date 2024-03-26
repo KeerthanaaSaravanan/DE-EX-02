@@ -1,6 +1,8 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
+
 Developed by: KEERTHANA S
 RegisterNumber:212223240070
+
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
